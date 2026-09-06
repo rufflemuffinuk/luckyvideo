@@ -1,8 +1,0 @@
-{
-  "name": "puppy-video-submissions",
-  "private": true,
-  "type": "module",
-  "engines": {
-    "node": ">=18"
-  }
-}
